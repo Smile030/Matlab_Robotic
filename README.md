@@ -1,5 +1,7 @@
 # Matlab_Robotic_arm
-這是記錄使用Matlab創建Robotic arm的過程
+這裡是記錄使用 Matlab 創建 Robotic arm 的過程
+
+創建 Robotics toolbox 大神 : https://github.com/petercorke/robotics-toolbox-matlab/tree/master
 
 # Step 1.下載工具 
 ## Step 1-1.至 PeterCorke.com 下載 Robotics toolbox 
