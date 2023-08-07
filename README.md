@@ -12,5 +12,5 @@ PeterCorke.com : https://petercorke.com/toolboxes/robotics-toolbox/
 ## Step 1-3.在 Command Window 中輸入 ver 指令，查看 Robotics Toolbox 是否安裝成功
 ![Image text](https://raw.githubusercontent.com/Smile030/Img_folder/main/Matlab/Robotic_arm/Step1/3.%E6%9F%A5%E7%9C%8B%E5%AE%89%E8%A3%9D%E6%98%AF%E5%90%A6%E6%88%90%E5%8A%9F.PNG)
 
-## Step 1-4.也能在 Command Window 中輸入 rtbdemo 指令，將會顯示有關機器人的範例及使用
+## Step 1-4.也能在 Command Window 中輸入 rtbdemo 指令，將會顯示有關機器人的範例及操控
 ![Image text](https://raw.githubusercontent.com/Smile030/Img_folder/main/Matlab/Robotic_arm/Step1/4.%E9%96%8B%E5%95%9Frtbdemo.PNG)
