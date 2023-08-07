@@ -14,3 +14,5 @@ PeterCorke.com : https://petercorke.com/toolboxes/robotics-toolbox/
 
 ## Step 1-4.也能在 Command Window 中輸入 rtbdemo 指令，將會顯示有關機器人的範例及操控
 ![Image text](https://raw.githubusercontent.com/Smile030/Img_folder/main/Matlab/Robotic_arm/Step1/4.%E9%96%8B%E5%95%9Frtbdemo.PNG)
+
+# Step 2.創建機器手臂 
